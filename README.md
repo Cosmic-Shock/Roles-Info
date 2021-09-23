@@ -1,48 +1,46 @@
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/877923668385206312/883595982242213888/1624961820373.jpg" width="128px">
-    <h1>Discord Roles - Team Ujjwal</h1>
+    <img src="https://media.discordapp.net/attachments/877923668385206312/883595982242213888/1624961820373.jpg" width="400px">
 </div>
-
+<div align="center">
+<h1>Cosmic Shock <hr> Roles Info</h1>
+</div>
+<div align="center">
 <h3>Staff Roles</h3>
+</div>
 
 | Name           | Description                                                                                                           |
 |----------------|-----------------------------------------------------------------------------------------------------------------------|
-| Owner          | Ujjwal Chaurasia.  Discord: `UjjwalGamer#9853` UID: `459683335979925504`                                              |
-| Management     | Looks after all core activities related to Ujjwal and team his team.                                                  |
-| Staff Team     | Manages the server with rules and regulations. They have the right to take the necessary action against the offender. |
-| Minecraft Team | Manages our Minecraft gaming server i.e. [TG Network](https://tgnetwork.in).                                          |
-| Community Team | Manages all our community events held on Discord.                                          |
+| The Real Cosmic Shock        |  This role is only for the owner i.e Cosmic Shock (COSMIC SHOCK YT#6533 `650660961157382156`).                                          |
+| Management    | Server managers who looks after all core activities related to Cosmic's Universe.                                                 |
+| Team Cosmic   | Server moderators who look after all the day-to-day activities of the server and takes care of the chat. |
 
+</div>
+<div align="center">
 <h3>Special Roles</h3>
+</div>
 
 | Name              | Description                                                                                                                                                                                                     |
 |-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Discord Employees | Ones who work at [Discord](https://discord.com).                                                                                                                                                                |
-| Content Creator   | Creators with 100k+ subscribers/followers.                                                                                                                                                                      |
-| Honourable Guest  | Recognized members of the community or special guests of the server.                                                                                                                                             |
-| Nitro Booster     | The one who blesses this server by [boosting](https://support.discord.com/hc/en-us/articles/360028038352-Server-Boosting-).                                                                                     |
-| YouTube Sponsor   | Channel member of live channel i.e. [Ujjwal](https://www.youtube.com/channel/UCl_vAxZpvbO-PFXdDu7EdHw). [Click here to join sponsor gang today](https://www.youtube.com/channel/UCl_vAxZpvbO-PFXdDu7EdHw/join)! |
-| Contributor       | Ones who sponsor the server financially under certain circumstances(terms & conditions applied).                                                                                                                |
-| Developer         | Creator of bots that are being used in this server.                                                                                                                                                            |
-| Designer          | Ones who regularly do gfx or VFX work for Team Ujjwal.                                                                                                                                                        |
-| Artist            | Talented musicians present in the [server](https://discord.gg/ujjwalgamer).                                                                                                                                     |
-| PTT Bypass            | Given based on activity and assigned/removed automatically via automation.                                                                                                                                     |
-| Verified Girl            | Given only to girls after voice verification.                                                                                                                                     |
-| Membership            | These roles are given to member after a designated duration after they join our Discord server. Currently we have (3, 6 & 9) months & (1, 2 ,3, 4 & 5) years.                                                                                                                                     |
+| Youtubers |           Youtubers present in our server. (Requires 5k+ subscribers and 30k+ total views to achieve this role)                                                                                                                                              |
+|  Partner  | Server Partners. (Make sure to check them out at #partner-servers)                                                                                                                                                                   |
+| Special Guest | Recognized members of the community or special guests of the server.
+| Event Winner | Winners of the events that were held in the server.   |                                                                                                                                  |
+| Server Booster     | The one who blesses this server by [boosting](https://support.discord.com/hc/en-us/articles/360028038352-Server-Boosting-).                                                                                     |
+| Channel Sponsor   | Channel members of our [YouTube Channel](https://youtube.com/channel/UCEZqqxc-NMD7uGCod8N0gOw) |                                                                                                                                     |
 
+</div>
+<div align="center">
 <h3>Level Roles</h3>
+</div>
 
 | Roles | Perks Unlocked                                                             |
 |----------------------------|----------------------------------------------------------------------------|
-| Level  10+                  | Unlocks hidden channels.                                                   |
-| Level  20+                   | Permission to external emotes.                                             |
-| Level  30+                   | Permission to add reactions along with video/screen share.                 |
-| Level  40+                  | Permission to change your nickname.                                    |
-| Level  50+                  | DJ access to control player of music bots.                                 |
-| Level  60+                  | Permission to set AFK status.                                              |
-| Level  70+                  | Permission to attach/embed files across channels.                          |
-| Level  80+                  | Regular talk show with Ujjwal as well as access to sponsor's only section.  |
-| Level  90+                 | Be the part of highly exclusive stuff. (In short a kind of pre-release!)   |
-| Level 100+                | Show off your honourable title of being on top of the server.               |
+| Trophy Road Brawler (L5)                 | Gives perms to change nickname.                                               |
+| Rare Brawler (L10)                   | Gives perms to stream in Stream VC.                                          |
+| Super Rare Brawler (L15)                   | Gives perms to add reactions along with access of Music 3.              |
+| Epic Brawler (L20)                  |  Gives the DJ role to control the music bots.                                  |
+| Mythic Brawler (L30)              |  Gives perms to attach files across the channels along with access of Music 4.                             
+| Legendary Brawler (L40)                  | Gives perms to send GIFs across the channels.                                            |
+| Chromatic Brawler (L50)                 | Gives something special which is a surpise!                        |               |
 
-> **Please Note**: The level up roles will be allotted to you after sending a particular amount of messages as mentioned above to get your perks unlocked! (Messages sent all time is not considered in this, only Mee6 Leaderboard is considered.)
+> **Please Note**: Skyra grants a random amount of points between 4 and 8 points, for each post with a 1 minute cooldown. Chat more to increase your levels!
